@@ -1,4 +1,4 @@
-This project was a learning project to understand MERN 
+This project was a learning project to understand MERN and with a vision to understand and to implement a more secure version of a chat app that is more encrypted and secure to use than the chat app that that fortune 500 companies make.
 
 ### Built With  
 
